@@ -1,7 +1,6 @@
 # DATA221 Assignment 1
-**Student Name:** Zoya Malik
+Zoya Malik (30139545)
 
-**University of Calgary**
 
 This repository contains my solutions for Assignment 1. Each question is in a separate file.
 ## Files
